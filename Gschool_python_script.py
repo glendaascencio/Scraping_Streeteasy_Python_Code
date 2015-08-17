@@ -1,3 +1,4 @@
+#By: Glenda Ascencio										Microsoft Research Summer School
 import requests
 import csv
 import os.path
